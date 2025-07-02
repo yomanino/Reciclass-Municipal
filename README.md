@@ -9,8 +9,3 @@ Este proyecto implementa un sistema Flask para incentivar el reciclaje mediante 
 - Generación de reportes de reciclaje.
 - Despliegue en Render.com o Railway.app.
 
-## Instalación
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/yomanino/Reciclass-Municipal.git 
